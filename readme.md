@@ -5,7 +5,7 @@
 
 ### I'm a Student, Developer, Designer, and Freelancer!!
 
-- 🔭 I just launched my website: [A Learning Website - ADAAYUSHSONI!][website]!
+- 🔭 I just launched my website: [A Learning Website - ADAAYUSHSONI][website]!
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Get a Good Job, Work with Professionals and Best Instructors. Contribute more to Open Source projects.
