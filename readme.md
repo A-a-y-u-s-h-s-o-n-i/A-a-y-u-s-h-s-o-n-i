@@ -1,4 +1,4 @@
-## Hi there, I'm Aayush Soni - aka [ADAAYUSHSONI][webiste] 👋
+## Hi there, I'm Aayush Soni - aka [ADAAYUSHSONI][website] 👋
 
 [![Website](https://img.shields.io/website?label=ADAAYUSHSONI&style=for-the-badge&up_color=critical&up_message=Going%21&url=https%3A%2F%2Fa-a-y-u-s-h-s-o-n-i.github.io%2FADAAYUSHSONI%2F)](https://a-a-y-u-s-h-s-o-n-i.github.io/ADAAYUSHSONI/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aayush_soni_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FADAAYUSHSONI&screen_name=Aayush_soni_)
@@ -21,9 +21,10 @@
 [<img align="left" alt="ADAAYUSHSONI | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ADAAYUSHSONI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br />
+<br>
+<br>
+
 ---
-<br />
 
 ### Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
