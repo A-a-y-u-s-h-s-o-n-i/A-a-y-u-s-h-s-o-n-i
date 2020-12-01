@@ -6,6 +6,7 @@
 ### I'm a Student, Developer, Designer, and Freelancer!!
 
 - 🔭 I just launched my website: [A Learning Website - ADAAYUSHSONI!][website]!
+- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Get a Good Job, Work with Professionals and Best Instructors. Contribute more to Open Source projects.
 - 👯 I’m looking to join a good team and collaborate with other content creators.
@@ -20,6 +21,8 @@
 [<img align="left" alt="ADAAYUSHSONI | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="ADAAYUSHSONI | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
+<br />
+--
 <br />
 
 ### Languages and Tools:
@@ -38,12 +41,15 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
+<br>
+<br>
+
 ---
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="ADAAYUSHSONI's GitHub Stats" src="https://github-readme-stats.A-a-y-u-s-h-s-o-n-i.vercel.app/api?username=A-a-y-u-s-h-s-o-n-i&show_icons=true&hide_border=true" />
+  <img align="left" alt="ADAAYUSHSONI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=A-a-y-u-s-h-s-o-n-i&show_icons=true&hide_border=true" />
 
 </details>
 
