@@ -1,8 +1,7 @@
-## Hi there, I'm Aayush Soni - aka[ADAAYUSHSONI][webiste]👋
+## Hi there, I'm Aayush Soni - aka [ADAAYUSHSONI][webiste] 👋
 
 [![Website](https://img.shields.io/website?label=ADAAYUSHSONI&style=for-the-badge&up_color=critical&up_message=Going%21&url=https%3A%2F%2Fa-a-y-u-s-h-s-o-n-i.github.io%2FADAAYUSHSONI%2F)](https://a-a-y-u-s-h-s-o-n-i.github.io/ADAAYUSHSONI/)
-
-[![Twitter Follow](https://img.shields.io/twitter/url?color=red&label=Twitter&logo=Twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAayush_soni_%2F)](https://twitter.com/Aayush_soni_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ADAAYUSHSONI?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FADAAYUSHSONI&screen_name=Aayush_soni_)
 
 ### I'm a Student, Developer, Designer, and Freelancer!!
 
@@ -39,6 +38,14 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="ADAAYUSHSONI's GitHub Stats" src="https://github-readme-stats.A-a-y-u-s-h-s-o-n-i.vercel.app/api?username=A-a-y-u-s-h-s-o-n-i&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://a-a-y-u-s-h-s-o-n-i.github.io/ADAAYUSHSONI/
 [twitter]: https://twitter.com/Aayush_soni_
