@@ -1,6 +1,6 @@
 ## Hi there, I'm Aayush Soni - aka [ADAAYUSHSONI][website] 👋
 
-[![Website](https://img.shields.io/website?label=ADAAYUSHSONI&style=for-the-badge&up_color=critical&up_message=On-Going%21&url=https%3A%2F%2Fa-a-y-u-s-h-s-o-n-i.github.io%2FADAAYUSHSONI%2F)](https://a-a-y-u-s-h-s-o-n-i.github.io/ADAAYUSHSONI/)
+[![Website](https://img.shields.io/website?label=ADAAYUSHSONI&style=for-the-badge&up_color=critical&up_message=On-Going%21&url=https%3A%2F%2Fa-a-y-u-s-h-s-o-n-i.github.io%2FADAAYUSHSONI%2F)](https://aayushsoni.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aayush_soni_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FADAAYUSHSONI&screen_name=Aayush_soni_)
 
 ### I'm a Student, Developer, Designer, and Freelancer!!
@@ -53,7 +53,8 @@
 
 </details>
 
-[website]: https://a-a-y-u-s-h-s-o-n-i.github.io/ADAAYUSHSONI/
+[website]: https://aayushsoni.netlify.app/
+[portfolio]: https://a-a-y-u-s-h-s-o-n-i.github.io/ADAAYUSHSONI/
 [twitter]: https://twitter.com/Aayush_soni_
 [linkedin]: https://www.linkedin.com/in/aayush-soni/
 [instagram]: https://www.instagram.com/a_a_y_u_s_h_s_o_n_i/
