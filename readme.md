@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=ADAAYUSHSONI&style=for-the-badge&up_color=critical&up_message=On-Going%21&url=https%3A%2F%2Fa-a-y-u-s-h-s-o-n-i.github.io%2FADAAYUSHSONI%2F)](https://aayushsoni.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Aayush_soni_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FADAAYUSHSONI&screen_name=Aayush_soni_)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/A-a-y-u-s-h-s-o-n-i/A-a-y-u-s-h-s-o-n-i/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://aayushsoni.netlify.app/"><img src="https://github.com/A-a-y-u-s-h-s-o-n-i/A-a-y-u-s-h-s-o-n-i/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 ### I'm a Student, Developer, Designer, and Freelancer!!
 
