@@ -9,7 +9,7 @@
 
 - 🔭 I just launched my website: [A Learning Website - ADAAYUSHSONI][website]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Get a Good Job, Work with Professionals and Best Instructors. Contribute more to Open Source projects.
+- 🥅 2022 Goals: Get a Good Job, Work with Professionals and Best Instructors. Contribute more to Open Source projects.
 - 👯 I’m looking to join a good team and collaborate with other content creators.
 - ⚡ Fun fact: I love to Listen Music and Playing Games.
 
